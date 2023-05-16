@@ -1,0 +1,11 @@
+body{
+    background-color: #8ecae6;
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.border{
+    background-color: #7fd2e6;
+    border: 2px solid black;
+}
